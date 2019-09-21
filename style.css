@@ -17,7 +17,7 @@ figcaption {
   font-size: 10px; 
 }
 
-a {
+nav > a {
   padding-right: 10px;
   padding-left: 10px;
   text-align: center;
