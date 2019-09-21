@@ -31,5 +31,8 @@ section#featured-property p {
 
 section#details{
   display:block;
-  
+}
+
+section#details div {
+  float: left;
 }
