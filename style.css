@@ -8,6 +8,14 @@ body {
   margin: 0;
 }
 
-figure {
+img {
+  text-align: center;
+}
+
+
+
+a {
+  padding-right: 10px;
+  padding-left: 10px;
   text-align: center;
 }
