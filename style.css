@@ -13,7 +13,7 @@ img {
 }
 
 figcaption {
-  text-aglin: center;
+  text-align: center;
   font-size: 10px; 
 }
 
@@ -21,4 +21,6 @@ a {
   padding-right: 10px;
   padding-left: 10px;
   text-align: center;
+  background-color: grey;
+  
 }
