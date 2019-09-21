@@ -12,7 +12,10 @@ img {
   text-align: center;
 }
 
-
+figcaption {
+  text-aglin: center;
+  font-size: 10; 
+}
 
 a {
   padding-right: 10px;
