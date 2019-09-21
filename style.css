@@ -24,7 +24,7 @@ nav > a {
   background-color: grey;
 }
 
-#featured-property  p {
+section#featured-property {
   width: 800px;
   text-align: center;
 }
